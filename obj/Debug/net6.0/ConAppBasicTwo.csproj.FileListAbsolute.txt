@@ -1,0 +1,14 @@
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\bin\Debug\net6.0\ConAppBasicTwo.exe
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\bin\Debug\net6.0\ConAppBasicTwo.deps.json
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\bin\Debug\net6.0\ConAppBasicTwo.runtimeconfig.json
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\bin\Debug\net6.0\ConAppBasicTwo.dll
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\bin\Debug\net6.0\ConAppBasicTwo.pdb
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\obj\Debug\net6.0\ConAppBasicTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\obj\Debug\net6.0\ConAppBasicTwo.AssemblyInfoInputs.cache
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\obj\Debug\net6.0\ConAppBasicTwo.AssemblyInfo.cs
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\obj\Debug\net6.0\ConAppBasicTwo.csproj.CoreCompileInputs.cache
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\obj\Debug\net6.0\ConAppBasicTwo.dll
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\obj\Debug\net6.0\refint\ConAppBasicTwo.dll
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\obj\Debug\net6.0\ConAppBasicTwo.pdb
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\obj\Debug\net6.0\ConAppBasicTwo.genruntimeconfig.cache
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\obj\Debug\net6.0\ref\ConAppBasicTwo.dll

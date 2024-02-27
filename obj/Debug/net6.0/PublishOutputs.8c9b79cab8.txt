@@ -1,0 +1,5 @@
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\bin\Debug\net6.0\publish\ConAppBasicTwo.exe
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\bin\Debug\net6.0\publish\ConAppBasicTwo.dll
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\bin\Debug\net6.0\publish\ConAppBasicTwo.deps.json
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\bin\Debug\net6.0\publish\ConAppBasicTwo.runtimeconfig.json
+D:\Web\ConAppBasicTwo\ConAppBasicTwo\bin\Debug\net6.0\publish\ConAppBasicTwo.pdb
